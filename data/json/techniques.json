@@ -35,7 +35,7 @@
   {
     "type": "technique",
     "id": "DEF_DISARM",
-    "name": "disarm",
+    "name": "Disarm",
     "melee_allowed": true,
     "disarms": true,
     "description": "Unwield target's weapon",
